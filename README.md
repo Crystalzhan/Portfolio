@@ -1,4 +1,4 @@
 # Portfolio
-Python project
-* ATM program
-Data Hacking 
+* Python project
+  * ATM program
+* Data Hacking 
