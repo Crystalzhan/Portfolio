@@ -6,6 +6,7 @@
    * When prgram begins, it will load accounts data from multiple bank accounts
    * Once the accounts are loaded, user will be prompted to enter 4-digit PIN. Invalid PIN will cause to display error message and re-prompt a valid PIN, if invalid pin is entered over 3 times, program will exit; If user enters a valid PIN, The program will display related account information
    * After login to account, the program will prompt 4 options: option 1 for view balance, option 2 for make a deposit, option 3 for withdraw funds, option4 for return to main menu
+ * Language: Python
  * Program design
    * Create a main module tha provides user the ability to login into account and perform banking operation
    * Create an Account Class that will be used to store account information
