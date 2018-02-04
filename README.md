@@ -1,4 +1,6 @@
 # Portfolio
-* Python project
-  * ATM program
-* Data Hacking 
+ Python project
+  * Requirements
+  * Program design
+  
+ Data Hacking 
