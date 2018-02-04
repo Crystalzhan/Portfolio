@@ -14,7 +14,7 @@
      * Instance Method - viewAccountBalance: returns the account balance the user is logged into
      * Instance Method - loadAccounts: populates savingsAccounts dictionary with account instances
      * Instance Method - login: returns true or false.  If an account is associated with the PIN, returns true.  Otherwise, return false. 
-  * Result: 
+ * Result: 
   Program was created with full described functions: login to bank account, view account informaiton, deposit funds and withdraw funds
  
  Data Hacking 
